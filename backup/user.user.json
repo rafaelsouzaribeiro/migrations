@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "65d39432ffa8368af2bafe01"
+  },
+  "user_nome": "Paulo Eduardo ",
+  "user_email": "paulo10@gmail.com",
+  "user_cpf": "333.333.333-33",
+  "user_telefone": "(33) 333333333",
+  "user_celular": "(33) 333333333",
+  "user_senha": "9202F096809D4BAC6F5E163B11C231913F5FA377CA7EC474FB348B31B0A1A6E8",
+  "address_user": [
+    {
+      "address_id": {
+        "$oid": "65d3a8aa57836bb3152e04fc"
+      },
+      "address_endereco": "endereço",
+      "address_bairro": "bairro",
+      "address_numero": "10",
+      "address_complemento": "estrada dos farrados",
+      "address_cidade": "Salto de Pipora",
+      "address_cep": "18160-000",
+      "address_uf": "SP"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-02-25T10:58:21.328Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-04T20:23:13.117Z"
+  },
+  "persisted": true,
+  "_class": "com.command.usercommandinsert.entity.UserMongo"
+},
+{
+  "_id": {
+    "$oid": "65d39446ffa8368af2bafe03"
+  },
+  "user_nome": "telma2",
+  "user_email": "telma@gmail.com",
+  "user_cpf": "222.222.222-22",
+  "user_telefone": "(15) 32922429",
+  "user_celular": "(15) 32922429",
+  "user_senha": "9202F096809D4BAC6F5E163B11C231913F5FA377CA7EC474FB348B31B0A1A6E8",
+  "address_user": [
+    {
+      "address_id": {
+        "$oid": "65d3a8aa57836bb3152e04fc"
+      },
+      "address_endereco": "endereço",
+      "address_bairro": "bairro",
+      "address_numero": "10",
+      "address_complemento": "estrada dos farrados",
+      "address_cidade": "Salto de Pipora",
+      "address_cep": "18160-000",
+      "address_uf": "SP"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-04-24T22:46:28.895Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-25T18:56:03.826Z"
+  },
+  "persisted": true,
+  "_class": "com.example.usercommandinsert.entity.UserMongo"
+},
+{
+  "_id": {
+    "$oid": "6647fa1f20c67a7c95a8f264"
+  },
+  "user_nome": "name1",
+  "user_email": "rafael10@testar.com",
+  "user_cpf": "cpf1",
+  "user_telefone": "telefone1",
+  "user_celular": "11",
+  "user_senha": "9202F096809D4BAC6F5E163B11C231913F5FA377CA7EC474FB348B31B0A1A6E8",
+  "address_user": [
+    {
+      "address_id": {
+        "$oid": "664bacc0645ad453282cad9c"
+      },
+      "address_endereco": "endereço2",
+      "address_bairro": "Casa2",
+      "address_numero": "número2",
+      "address_complemento": "complemento2",
+      "address_cidade": "cidade2",
+      "address_cep": "cep2",
+      "address_uf": "sp2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-05-20T18:28:31.263Z"
+  },
+  "updateAt": {
+    "$date": "2024-05-20T20:05:24.381Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664bb0dc645ad453282cad9d"
+  },
+  "user_nome": "Telma",
+  "user_email": "rafael10@testar2.com",
+  "user_cpf": "cpf telma",
+  "user_telefone": "telefone telma",
+  "user_celular": "celular telma",
+  "user_senha": "9202F096809D4BAC6F5E163B11C231913F5FA377CA7EC474FB348B31B0A1A6E8",
+  "address_user": [
+    {
+      "address_id": {
+        "$oid": "664bacc0645ad453282cad9c"
+      },
+      "address_endereco": "endereço2",
+      "address_bairro": "Casa2",
+      "address_numero": "número2",
+      "address_complemento": "complemento2",
+      "address_cidade": "cidade2",
+      "address_cep": "cep2",
+      "address_uf": "sp2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-05-20T20:21:48.782Z"
+  },
+  "updateAt": {
+    "$date": "2024-05-20T20:21:48.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664bb182645ad453282cad9f"
+  },
+  "user_nome": "Telma3",
+  "user_email": "rafael10@testar1.com",
+  "user_cpf": "cpf telma3",
+  "user_telefone": "telefone telma3",
+  "user_celular": "celular telma3",
+  "user_senha": "9202F096809D4BAC6F5E163B11C231913F5FA377CA7EC474FB348B31B0A1A6E8",
+  "address_user": [
+    {
+      "address_id": {
+        "$oid": "664bb182645ad453282cad9e"
+      },
+      "address_endereco": "endereço23",
+      "address_bairro": "Casa23",
+      "address_numero": "número23",
+      "address_complemento": "complemento23",
+      "address_cidade": "cidade23",
+      "address_cep": "cep23",
+      "address_uf": "sp23"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-05-20T20:24:34.883Z"
+  },
+  "updateAt": {
+    "$date": "2024-05-20T20:24:34.883Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664ccf3a58ecbb99bbbdb50d"
+  },
+  "user_nome": "Telma25",
+  "user_email": "rafaelribeirosouza86@hotmail.com",
+  "user_cpf": "cpf telma25",
+  "user_telefone": "telefone telma25",
+  "user_celular": "celular telma25",
+  "user_senha": "CDA769A9D21FC9B822DD911D2E262D9B85BAD791416FC49112DF6A2B3BA38303",
+  "address_user": [
+    {
+      "address_id": {
+        "$oid": "664ccf3a58ecbb99bbbdb50c"
+      },
+      "address_endereco": "endereço24.5",
+      "address_bairro": "Casa24.5",
+      "address_numero": "número24.5",
+      "address_complemento": "complemento24.5",
+      "address_cidade": "cidade24.5",
+      "address_cep": "cep24.5",
+      "address_uf": "sp24.5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-05-21T16:43:38.363Z"
+  },
+  "updateAt": {
+    "$date": "2024-05-25T22:51:44.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66526e3d151d3f647a371edb"
+  },
+  "user_nome": "Rafael Fernando Souza ribeiro ",
+  "user_email": "rafaelribeirosouza86@gmail.com",
+  "user_cpf": "327.674.748-07",
+  "user_telefone": "(15) 996390139",
+  "user_celular": "(15) 996390139",
+  "user_senha": "9202F096809D4BAC6F5E163B11C231913F5FA377CA7EC474FB348B31B0A1A6E8",
+  "address_user": [
+    {
+      "address_id": {
+        "$oid": "66526e3d151d3f647a371eda"
+      },
+      "address_endereco": "rua Almeida bonadio ",
+      "address_bairro": "estrada dos Guararapes",
+      "address_numero": "23",
+      "address_complemento": "rua a esquerda",
+      "address_cidade": "Salto de Pirapora ",
+      "address_cep": "18160000",
+      "address_uf": "sp"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-05-25T23:03:25.262Z"
+  },
+  "updateAt": {
+    "$date": "2024-05-25T23:03:25.262Z"
+  }
+}]

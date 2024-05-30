@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "65eb2c41a44b3abfb81ca1f4"
+  },
+  "email": "Email 22",
+  "telephone": "Telefone 22",
+  "cell_phone": "Celular 22",
+  "createdAt": {
+    "$date": "2023-01-16T22:13:45.475Z"
+  },
+  "updateAt": {
+    "$date": "2023-01-16T22:13:45.475Z"
+  },
+  "version": 0,
+  "persisted": false,
+  "_class": "com.example.contactadmkafka.entity.ContactAdmMongo"
+}]

@@ -1,0 +1,261 @@
+[{
+  "_id": {
+    "$oid": "65d8c7370d6bf83eacf67e58"
+  },
+  "datebuy": "19/09/2023 11:47:37",
+  "active": "desativo",
+  "ip": "127.0.0.1",
+  "type_payment": "Cartao_de_Credito",
+  "userid": {
+    "$oid": "65d39432ffa8368af2bafe01"
+  },
+  "shopping_carts": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/acelga_shopping.jpg",
+      "price_un": "30",
+      "price_kg": "30.15",
+      "quant": 2,
+      "kg": "FALSE",
+      "title": "Acelga novo",
+      "description": "Description Acelga",
+      "product_id": {
+        "$oid": "65c1607da01636cf69a75728"
+      }
+    }
+  ],
+  "createdAt": "08/04/2024 10:14:20",
+  "updateAt": "08/04/2024 10:14:20",
+  "persisted": true,
+  "_class": "com.example.cartpurchasekafka.entity.CartPurchaseMongo"
+},
+{
+  "_id": {
+    "$oid": "65d8c7370d6bf83eacf67e59"
+  },
+  "datebuy": "31/10/2023 17:18:07",
+  "active": "ativo",
+  "ip": "127.0.0.1",
+  "type_payment": "Cartao_de_Credito",
+  "userid": {
+    "$oid": "65d39432ffa8368af2bafe01"
+  },
+  "shopping_carts": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291654/agriao-higienizado_shopping.jpg",
+      "price_un": "5.15",
+      "price_kg": "5",
+      "quant": 2,
+      "kg": "FALSE",
+      "title": "Agrião Higienizado",
+      "description": "Description Agrião Higienizado",
+      "product_id": {
+        "$oid": "65c16095a01636cf69a7572b"
+      }
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/acelga_shopping.jpg",
+      "price_un": "30",
+      "price_kg": "30.15",
+      "quant": 4,
+      "kg": "FALSE",
+      "title": "Acelga novo",
+      "description": "Description Acelga",
+      "product_id": {
+        "$oid": "65c1607da01636cf69a75728"
+      }
+    }
+  ],
+  "createdAt": "08/04/2024 10:14:20",
+  "updateAt": "08/04/2024 10:14:20",
+  "persisted": false,
+  "_class": "com.example.cartpurchasekafka.entity.CartPurchaseMongo"
+},
+{
+  "_id": {
+    "$oid": "65d8c7370d6bf83eacf67e5a"
+  },
+  "datebuy": "31/10/2023 17:27:50",
+  "active": "ativo",
+  "ip": "127.0.0.1",
+  "type_payment": "Cartao_de_Credito",
+  "userid": {
+    "$oid": "65d39432ffa8368af2bafe01"
+  },
+  "shopping_carts": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291654/agriao-higienizado_shopping.jpg",
+      "price_kg": "5",
+      "quant": 25,
+      "kg": "TRUE",
+      "title": "Agrião Higienizado 3.1",
+      "description": "Description Agrião Higienizado 3.1",
+      "product_id": {
+        "$oid": "65c16095a01636cf69a7572b"
+      }
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/alface_shopping.jpg",
+      "price_un": "10",
+      "price_kg": "10.15",
+      "quant": 2,
+      "kg": "FALSE",
+      "title": "Alface 2",
+      "description": "Description Alface 2",
+      "product_id": {
+        "$oid": "65c16085a01636cf69a75729"
+      }
+    }
+  ],
+  "createdAt": "08/04/2024 10:14:20",
+  "updateAt": "08/04/2024 10:14:20",
+  "persisted": false,
+  "_class": "com.example.cartpurchasekafka.entity.CartPurchaseMongo"
+},
+{
+  "_id": {
+    "$oid": "6613ebb45a75fe7fd1300a21"
+  },
+  "datebuy": "08/04/2024 10:05:56",
+  "active": "ativo",
+  "ip": "127.0.0.1",
+  "type_payment": "Cartao_de_Credito",
+  "shopping_carts": [
+    {
+      "title": "Produto Título",
+      "photo": "photo",
+      "price_un": "50",
+      "price_kg": "60",
+      "quant": 10,
+      "kg": "TRUE",
+      "description": "description",
+      "product_id": {
+        "$oid": "65c15f99a01636cf69a7571a"
+      }
+    },
+    {
+      "title": "Produto Título2",
+      "photo": "photo2",
+      "price_un": "60",
+      "price_kg": "70",
+      "quant": 5,
+      "kg": "FALSE",
+      "description": "description2",
+      "product_id": {
+        "$oid": "65c15f99a01636cf69a7571a"
+      }
+    }
+  ],
+  "createdAt": "08/04/2024 10:05:56",
+  "updateAt": "08/04/2024 10:05:56"
+},
+{
+  "_id": {
+    "$oid": "6613ec1942282bad0592a4de"
+  },
+  "datebuy": "08/04/2024 10:07:37",
+  "active": "ativo",
+  "ip": "127.0.0.1",
+  "type_payment": "Cartao_de_Credito",
+  "shopping_carts": [
+    {
+      "title": "Produto Título",
+      "photo": "photo",
+      "price_un": "50",
+      "price_kg": "60",
+      "quant": 10,
+      "kg": "TRUE",
+      "description": "description",
+      "product_id": {
+        "$oid": "65c15f99a01636cf69a7571a"
+      }
+    },
+    {
+      "title": "Produto Título2",
+      "photo": "photo2",
+      "price_un": "60",
+      "price_kg": "70",
+      "quant": 5,
+      "kg": "FALSE",
+      "description": "description2",
+      "product_id": {
+        "$oid": "65c15f99a01636cf69a7571a"
+      }
+    }
+  ],
+  "createdAt": "08/04/2024 10:07:37",
+  "updateAt": "08/04/2024 10:07:37"
+},
+{
+  "_id": {
+    "$oid": "6613ec9bc05eca48c8f87282"
+  },
+  "datebuy": "08/04/2024 10:09:47",
+  "active": "ativo",
+  "ip": "127.0.0.1",
+  "type_payment": "Cartao_de_Credito",
+  "shopping_carts": [
+    {
+      "title": "Produto Título",
+      "photo": "photo",
+      "price_un": "50",
+      "price_kg": "60",
+      "quant": 10,
+      "kg": "TRUE",
+      "description": "description",
+      "product_id": {
+        "$oid": "65c15f99a01636cf69a7571a"
+      }
+    },
+    {
+      "title": "Produto Título2",
+      "photo": "photo2",
+      "price_un": "60",
+      "price_kg": "70",
+      "quant": 5,
+      "kg": "FALSE",
+      "description": "description2",
+      "product_id": {
+        "$oid": "65c15f99a01636cf69a7571a"
+      }
+    }
+  ],
+  "createdAt": "08/04/2024 10:09:47",
+  "updateAt": "08/04/2024 10:09:47"
+},
+{
+  "_id": {
+    "$oid": "661560acb75eea33e0d6d66e"
+  },
+  "datebuy": "09/04/2024 12:37:16",
+  "active": "ativo",
+  "ip": "127.0.0.1",
+  "type_payment": "Cartao_de_Credito",
+  "shopping_carts": [
+    {
+      "title": "Produto Título",
+      "photo": "photo",
+      "price_un": "50",
+      "price_kg": "60",
+      "quant": 10,
+      "kg": "TRUE",
+      "description": "description",
+      "product_id": {
+        "$oid": "65c15f99a01636cf69a7571a"
+      }
+    },
+    {
+      "title": "Produto Título2",
+      "photo": "photo2",
+      "price_un": "60",
+      "price_kg": "70",
+      "quant": 5,
+      "kg": "FALSE",
+      "description": "description2",
+      "product_id": {
+        "$oid": "65c15f99a01636cf69a7571a"
+      }
+    }
+  ],
+  "createdAt": "09/04/2024 12:37:16 ",
+  "updateAt": "09/04/2024 12:37:16 "
+}]

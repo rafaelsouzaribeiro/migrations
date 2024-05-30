@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "65c160f6a01636cf69a7572e"
+  },
+  "name": "Legumes",
+  "active": "ativo",
+  "slug": "legumes",
+  "createdAt": {
+    "$date": "2023-01-18T22:06:07.865Z"
+  },
+  "updateAt": {
+    "$date": "2023-01-18T22:06:07.865Z"
+  },
+  "version": 0,
+  "persisted": false,
+  "_class": "com.example.categoryproductkafka.entity.CategoryMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16100a01636cf69a7572f"
+  },
+  "name": "Frutas",
+  "active": "ativo",
+  "slug": "frutas",
+  "createdAt": {
+    "$date": "2023-01-18T22:10:47.888Z"
+  },
+  "updateAt": {
+    "$date": "2023-01-18T22:10:47.888Z"
+  },
+  "version": 0,
+  "persisted": false,
+  "_class": "com.example.categoryproductkafka.entity.CategoryMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16109a01636cf69a75730"
+  },
+  "name": "horta2",
+  "active": "ativo",
+  "slug": "horta2",
+  "createdAt": {
+    "$date": "2023-08-24T20:10:26.005Z"
+  },
+  "updateAt": {
+    "$date": "2023-08-24T20:10:26.005Z"
+  },
+  "version": 0,
+  "persisted": false,
+  "_class": "com.example.categoryproductkafka.entity.CategoryMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16112a01636cf69a75731"
+  },
+  "name": "Sem categoria",
+  "active": "ativo",
+  "slug": "sem-categoria",
+  "createdAt": {
+    "$date": "2023-09-04T02:06:34.369Z"
+  },
+  "updateAt": {
+    "$date": "2023-09-04T02:06:34.369Z"
+  },
+  "version": 0,
+  "persisted": false,
+  "_class": "com.example.categoryproductkafka.entity.CategoryMongo"
+}]

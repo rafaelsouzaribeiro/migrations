@@ -1,0 +1,882 @@
+[{
+  "_id": {
+    "$oid": "65c15f99a01636cf69a7571a"
+  },
+  "product_title": "Tempero Caseiro",
+  "product_quant": 0,
+  "product_slug": "tempero-caseiro",
+  "product_active": "ativo",
+  "product_description": "Description Tempero Caseiro",
+  "product_price_un": "10",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/temperocaseiro.jpg",
+      "type": "mini",
+      "title": "Tempero Caseiro",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1665782798/temperocaseiro_shopping.jpg",
+      "type": "media",
+      "title": "Tempero Caseiro",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 2,
+  "createdAt": {
+    "$date": "2023-01-31T23:48:23.879Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T23:22:34.384Z"
+  },
+  "version": 9,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c15fc1a01636cf69a7571b"
+  },
+  "product_title": "Agrião",
+  "product_quant": 0,
+  "product_slug": "agriao",
+  "product_active": "ativo",
+  "product_description": "Description Agrião",
+  "product_price_un": "10",
+  "product_price_kg": "10.50",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291656/agriao.jpg",
+      "type": "mini",
+      "title": "Agrião",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291656/agriao_shopping.jpg",
+      "type": "media",
+      "title": "Agrião",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 4,
+  "createdAt": {
+    "$date": "2023-01-31T23:49:31.012Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T23:22:49.635Z"
+  },
+  "version": 7,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c15fd2a01636cf69a7571c"
+  },
+  "product_title": "Pêra",
+  "product_quant": 0,
+  "product_slug": "pera",
+  "product_active": "ativo",
+  "product_description": "Description Pêra",
+  "product_price_un": "5",
+  "product_price_kg": "6.25",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291656/pera.jpg",
+      "type": "mini",
+      "title": "Pêra",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291656/pera_shopping.jpg",
+      "type": "media",
+      "title": "Pêra",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 4,
+  "createdAt": {
+    "$date": "2023-01-31T23:50:33.066Z"
+  },
+  "updateAt": {
+    "$date": "2023-09-12T23:55:35.328Z"
+  },
+  "version": 6,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c15fdea01636cf69a7571d"
+  },
+  "product_title": "Abacaxi Pérola",
+  "product_quant": 0,
+  "product_slug": "abacaxi-perola",
+  "product_active": "ativo",
+  "product_description": "Description Abacaxi Pérola",
+  "product_price_un": "15",
+  "product_price_kg": "15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/abacaxi-perola.jpg",
+      "type": "mini",
+      "title": "Abacaxi Pérola",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/abacaxi-perola_shopping.jpg",
+      "type": "media",
+      "title": "Abacaxi Pérola",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 4,
+  "createdAt": {
+    "$date": "2023-01-31T23:52:02.337Z"
+  },
+  "updateAt": {
+    "$date": "2023-10-07T20:18:41.165Z"
+  },
+  "version": 15,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c15fe8a01636cf69a7571e"
+  },
+  "product_title": "Abacate",
+  "product_quant": 0,
+  "product_slug": "abacate",
+  "product_active": "ativo",
+  "product_description": "Description abacate",
+  "product_price_un": "20",
+  "product_price_kg": "20.15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/abacate.jpg",
+      "type": "mini",
+      "title": "Abacate",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/abacate_shopping.jpg",
+      "type": "media",
+      "title": "Abacate",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 5,
+  "createdAt": {
+    "$date": "2023-01-31T23:54:07.250Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T22:51:36.419Z"
+  },
+  "version": 4,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c15ff4a01636cf69a7571f"
+  },
+  "product_title": "Abacaxi Hawai",
+  "product_quant": 0,
+  "product_slug": "abacaxi-hawai",
+  "product_active": "ativo",
+  "product_description": "Description Abacaxi Hawai",
+  "product_price_un": "20",
+  "product_price_kg": "20.15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/abacaxi-hawai.jpg",
+      "type": "mini",
+      "title": "Abacaxi Hawai",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/abacaxi-hawai_shopping.jpg",
+      "type": "media",
+      "title": "Abacaxi Hawai",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 5,
+  "createdAt": {
+    "$date": "2023-01-31T23:55:11.052Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T22:44:29.634Z"
+  },
+  "version": 3,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16003a01636cf69a75720"
+  },
+  "product_title": "Maçã",
+  "product_quant": 0,
+  "product_slug": "maca",
+  "product_active": "ativo",
+  "product_description": "Description Maçã",
+  "product_price_un": "30",
+  "product_price_kg": "30.15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/maca.jpg",
+      "type": "mini",
+      "title": "Maçã",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/maca_shopping.jpg",
+      "type": "media",
+      "title": "Maçã",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 4,
+  "createdAt": {
+    "$date": "2023-01-31T23:56:09.430Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T22:21:24.314Z"
+  },
+  "version": 2,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16011a01636cf69a75721"
+  },
+  "product_title": "Alho de Poro",
+  "product_quant": 0,
+  "product_slug": "alho-de-poro",
+  "product_active": "ativo",
+  "product_description": "Description Alho de Poro",
+  "product_price_un": "30",
+  "product_price_kg": "30.15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/alho-poro.jpg",
+      "type": "mini",
+      "title": "Alho de Poro",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/alho-poro_shopping.jpg",
+      "type": "media",
+      "title": "Alho de Poro",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 5,
+  "createdAt": {
+    "$date": "2023-01-31T23:57:11.322Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T22:20:20.128Z"
+  },
+  "version": 2,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16020a01636cf69a75722"
+  },
+  "product_title": "Alho de Poro",
+  "product_quant": 0,
+  "product_slug": "alho-de-poro",
+  "product_active": "ativo",
+  "product_description": "Description Alho de Poro",
+  "product_price_un": "30",
+  "product_price_kg": "30.15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/alho-poro.jpg",
+      "type": "mini",
+      "title": "Alho de Poro",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/alho-poro_shopping.jpg",
+      "type": "media",
+      "title": "Alho de Poro",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 5,
+  "createdAt": {
+    "$date": "2023-01-31T23:57:11.322Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T22:20:20.128Z"
+  },
+  "version": 2,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16036a01636cf69a75723"
+  },
+  "product_title": "Cebolinha",
+  "product_quant": 0,
+  "product_slug": "cebolinha",
+  "product_active": "ativo",
+  "product_description": "Description Cebolinha",
+  "product_price_un": "10",
+  "product_price_kg": "10.15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/cebolinha.jpg",
+      "type": "mini",
+      "title": "Cebolinha",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/cebolinha_shopping.jpg",
+      "type": "media",
+      "title": "Cebolinha",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 4,
+  "createdAt": {
+    "$date": "2023-01-31T23:58:16.564Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T22:17:15.873Z"
+  },
+  "version": 5,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c1605fa01636cf69a75724"
+  },
+  "product_title": "Alface",
+  "product_quant": 0,
+  "product_slug": "alface",
+  "product_active": "ativo",
+  "product_description": "Description Alface",
+  "product_price_un": "10",
+  "product_price_kg": "10.15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/alface.jpg",
+      "type": "mini",
+      "title": "Alface",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/alface_shopping.jpg",
+      "type": "media",
+      "title": "Alface",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 2,
+  "createdAt": {
+    "$date": "2023-01-31T23:59:09.852Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T16:36:34.752Z"
+  },
+  "version": 2,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16065a01636cf69a75725"
+  },
+  "product_title": "Agrião Higienizado",
+  "product_quant": 0,
+  "product_slug": "agriao-higienizado",
+  "product_active": "ativo",
+  "product_description": "Description Agrião Higienizado",
+  "product_price_un": "5.15",
+  "product_price_kg": "5",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291654/agriao-higienizado.jpg",
+      "type": "mini",
+      "title": "Agrião Higienizado",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291654/agriao-higienizado_shopping.jpg",
+      "type": "media",
+      "title": "Agrião Higienizado",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 5,
+  "createdAt": {
+    "$date": "2023-02-01T00:04:38.207Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T16:08:22.307Z"
+  },
+  "version": 4,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c1606ea01636cf69a75726"
+  },
+  "product_title": "Agrião Higienizado 2",
+  "product_quant": 0,
+  "product_slug": "agriao-higienizado-2",
+  "product_active": "ativo",
+  "product_description": "Description Agrião Higienizado 2",
+  "product_price_un": "5.15",
+  "product_price_kg": "5",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291654/agriao-higienizado.jpg",
+      "type": "mini",
+      "title": "Agrião Higienizado 2",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291654/agriao-higienizado_shopping.jpg",
+      "type": "media",
+      "title": "Agrião Higienizado 2",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    }
+  ],
+  "star": 5,
+  "createdAt": {
+    "$date": "2023-02-04T03:13:20.745Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T23:26:40.020Z"
+  },
+  "version": 2,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16076a01636cf69a75727"
+  },
+  "product_title": "Legumes",
+  "product_quant": 0,
+  "product_slug": "legumes",
+  "product_active": "ativo",
+  "product_description": "Description Legumes",
+  "product_price_un": "10",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1665783106/alcachofra.jpg",
+      "type": "mini",
+      "title": "Legumes",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1665783106/alcachofra_shopping.jpg",
+      "type": "media",
+      "title": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 4,
+  "createdAt": {
+    "$date": "2023-02-14T20:51:34.040Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T16:09:04.912Z"
+  },
+  "version": 11,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c1607da01636cf69a75728"
+  },
+  "product_title": "Acelga novo",
+  "product_quant": 0,
+  "product_slug": "acelga",
+  "product_active": "ativo",
+  "product_description": "Description Acelga",
+  "product_price_un": "30",
+  "product_price_kg": "30.15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/acelga.jpg",
+      "type": "mini",
+      "title": "Acelga",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/acelga_shopping.jpg",
+      "type": "media",
+      "title": "Acelga",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    },
+    {
+      "category_id": {
+        "$oid": "65c160f6a01636cf69a7572e"
+      },
+      "name": "Legumes",
+      "active": "ativo"
+    }
+  ],
+  "star": 3,
+  "createdAt": {
+    "$date": "2023-03-07T01:36:28.918Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-26T23:00:10.160Z"
+  },
+  "version": 13,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16085a01636cf69a75729"
+  },
+  "product_title": "Alface 2",
+  "product_quant": 0,
+  "product_slug": "alface-2",
+  "product_active": "ativo",
+  "product_description": "Description Alface 2",
+  "product_price_un": "10",
+  "product_price_kg": "10.15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/alface.jpg",
+      "type": "mini",
+      "title": "Alface 2",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/alface_shopping.jpg",
+      "type": "media",
+      "title": "Alface 2",
+      "active": "ativo"
+    }
+  ],
+  "categories": [],
+  "star": 2,
+  "createdAt": {
+    "$date": "2023-03-07T23:46:53.898Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-27T00:02:48.462Z"
+  },
+  "version": 2,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c1608ea01636cf69a7572a"
+  },
+  "product_title": "Acelga 2",
+  "product_quant": 0,
+  "product_slug": "acelga2",
+  "product_active": "ativo",
+  "product_description": "Description Acelga",
+  "product_price_un": "30",
+  "product_price_kg": "30.15",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/acelga.jpg",
+      "type": "mini",
+      "title": "Acelga",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291655/acelga_shopping.jpg",
+      "type": "media",
+      "title": "Acelga",
+      "active": "ativo"
+    }
+  ],
+  "categories": [
+    {
+      "category_id": {
+        "$oid": "65c16100a01636cf69a7572f"
+      },
+      "name": "Frutas",
+      "active": "ativo"
+    }
+  ],
+  "star": 2,
+  "createdAt": {
+    "$date": "2023-03-31T05:13:06.428Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-27T00:01:42.713Z"
+  },
+  "version": 2,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+},
+{
+  "_id": {
+    "$oid": "65c16095a01636cf69a7572b"
+  },
+  "product_title": "Agrião Higienizado 3.1",
+  "product_quant": 0,
+  "product_slug": "agriao-higienizado-3.1",
+  "product_active": "ativo",
+  "product_description": "Description Agrião Higienizado 3.1",
+  "product_price_kg": "5",
+  "photos": [
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291654/agriao-higienizado.jpg",
+      "type": "mini",
+      "title": "Agrião Higienizado 2",
+      "active": "ativo"
+    },
+    {
+      "photo": "https://res.cloudinary.com/dwvgzwd65/image/upload/v1659291654/agriao-higienizado_shopping.jpg",
+      "type": "media",
+      "title": "Agrião Higienizado 2",
+      "active": "ativo"
+    }
+  ],
+  "categories": [],
+  "star": 4,
+  "createdAt": {
+    "$date": "2023-04-26T16:53:30.217Z"
+  },
+  "updateAt": {
+    "$date": "2023-04-27T00:02:35.230Z"
+  },
+  "version": 2,
+  "persisted": true,
+  "_class": "com.example.categoryproductkafka.entity.Category_productMongo"
+}]

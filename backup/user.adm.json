@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "65d3940dffa8368af2bafdfe"
+  },
+  "nome": "Rafael Fernando",
+  "email": "rafael@gmail.com",
+  "senha": "9202F096809D4BAC6F5E163B11C231913F5FA377CA7EC474FB348B31B0A1A6E8",
+  "createdAt": {
+    "$date": "2023-11-18T18:03:35.957Z"
+  },
+  "updateAt": {
+    "$date": "2023-11-18T18:03:35.957Z"
+  },
+  "persisted": false,
+  "_class": "com.example.userkafka.entity.AdmMongo"
+}]
