@@ -7,7 +7,7 @@
         },
         "name": "user_email",
         "unique": true,
-        "background": true
+        "background": false
       }
     ]
   }]

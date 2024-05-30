@@ -10,8 +10,5 @@
   },
   "updateAt": {
     "$date": "2023-01-16T22:13:45.475Z"
-  },
-  "version": 0,
-  "persisted": false,
-  "_class": "com.example.contactadmkafka.entity.ContactAdmMongo"
+  }
 }]
