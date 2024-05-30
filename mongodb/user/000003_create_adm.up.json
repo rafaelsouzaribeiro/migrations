@@ -1,0 +1,13 @@
+[{
+  "createIndexes": "adm",
+  "indexes": [
+   {
+      "key": {
+        "email": 1
+      },
+      "name": "email",
+      "unique": true,
+      "background": true
+    }
+  ]
+}]
