@@ -1,0 +1,14 @@
+[{
+  "createIndexes": "star_rating",
+  "indexes": [
+    {
+      "key": {
+        "ip": 1,
+        "product_id": 1
+      },
+      "name": "ip_product_id_unique_index2",
+      "background": false,
+      "unique": true
+    }
+  ]
+}]
